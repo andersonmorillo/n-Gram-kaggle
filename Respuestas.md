@@ -20,6 +20,7 @@ Instead of bigrams (two word phrases), can you find trigrams (three words)?
 
 
 Hallar la frecuencia mas repetida para un unigrama, bigrama y trigrama del dataset (Bed Time Stories | Kaggle) (https://www.kaggle.com/datasets/mahendran1/bed-time-stories?select=6.+Pravaras+Wife.txt)
+
 Los 20 Unigrams más repetidos en el cuerpo:
 
 ![image](https://user-images.githubusercontent.com/54423269/160853424-132ac6ca-4f41-4042-a1d8-88ad2986cffe.png)
@@ -29,6 +30,7 @@ Los 20 Unigrams más repetidos en el cuerpo:
  Los 30 Bigrams más repetidos en el cuerpo:
  
 ![image](https://user-images.githubusercontent.com/54423269/160853191-2173f425-3e7c-4b1d-828c-a443cea14a0c.png)
+
 
  
  Los 20 Trigrams más repetidos:
