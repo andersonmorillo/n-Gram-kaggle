@@ -13,6 +13,10 @@ frecuencias mas repetidas para el archivo: (spanishText_25000_30000)
 ![image](https://user-images.githubusercontent.com/54423269/161096980-c108c444-02d5-48e4-8076-24fd0999465b.png)
 
 
+Instead of bigrams (two word phrases), can you find trigrams (three words)?
+
+![image](https://user-images.githubusercontent.com/54423269/161098198-37c499aa-3b59-4676-880e-3fb1fbddedf9.png)
+
 
 
 Hallar la frecuencia mas repetida para un unigrama, bigrama y trigrama del dataset (Bed Time Stories | Kaggle) (https://www.kaggle.com/datasets/mahendran1/bed-time-stories?select=6.+Pravaras+Wife.txt)
