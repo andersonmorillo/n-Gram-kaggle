@@ -14,6 +14,7 @@ frecuencias mas repetidas para el archivo: (spanishText_25000_30000)
 
 
 Instead of bigrams (two word phrases), can you find trigrams (three words)?
+cambiando lo siguiente en el codigo se pueden hallar trigramas y diferenstes N gramas en el texto
 
 ![image](https://user-images.githubusercontent.com/54423269/161098198-37c499aa-3b59-4676-880e-3fb1fbddedf9.png)
 
