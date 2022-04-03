@@ -1,7 +1,7 @@
 # n-Gram-kaggle
 
 Find the most frequent n-grams in another file in this corpus. You can find the other files by entering "../input/spanish_corpus/" in a code chunk and then hitting the Tab key. All of the files will be listed in a drop-down menu. Are the most frequent bigrams the same as they were in this file?
-Entre los dos archivos el segundo presenta una diferencia en la segunda frecuencia mas repetida
+Entre los dos archivos se presenta una diferencia en la segunda frecuencia más repetida respectivamente
 
 frecuencia del archivo ejemplo:
 
